@@ -16,5 +16,5 @@ RUN curl -sS https://get.symfony.com/cli/installer |bash
 
 RUN mv /root/.symfony5/bin/symfony /usr/local/bin/symfony
 
-RUN git config --global user.email "vitaliy@mail.com" \
-    && git config --global user.name "vitaliy"
+RUN git config --global user.email "nika.kurt@yandex.ru" \
+    && git config --global user.name "veroshka"
